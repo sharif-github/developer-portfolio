@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half_width{
     width: 50%;
@@ -19,7 +20,7 @@ section{
     width: 80%;
     padding-top: 5%;
 }
-.HIRE_ME_button{
+.orange_button{
     text-decoration: none;
     color: white;
     font-weight: 700;
@@ -30,4 +31,12 @@ section{
 .top_banner{
     background-image: url(images/corner_quarter_circle.jpg);
     background-repeat: no-repeat;
+}
+.second_section_margin_right{
+    padding-right: 5%;
+}
+.dream_big_section{
+    background-image: url(images/half_circle.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
