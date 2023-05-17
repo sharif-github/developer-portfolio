@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.name_highlight{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half_width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half_width img{
+    width: 80%;
+    padding-top: 5%;
+}
+.HIRE_ME_button{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top_banner{
+    background-image: url(images/corner_quarter_circle.jpg);
+    background-repeat: no-repeat;
+}
